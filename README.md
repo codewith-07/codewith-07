@@ -9,8 +9,8 @@
 <br/>
 
 <img src="https://img.shields.io/badge/B.Sc.%20Computer%20Science-Delhi%20University-4C1D95?style=for-the-badge&logo=academia&logoColor=white"/>
-<img src="https://img.shields.io/badge/Expected-2026-312E81?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Location-Bihar%2C%20India-4338CA?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+<img src="https://img.shields.io/badge/-2026-312E81?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Location-NEW DELHI%2C%20India-4338CA?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 
 <br/><br/>
 
